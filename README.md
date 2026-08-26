@@ -1,2 +1,2 @@
-# GastroScope_PCB
-PCB deisng files for GastroScope, running FOC
+# GastroSlew_PCB
+PCB deisng files for GastroSlew, running FOC
