@@ -1,0 +1,25 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.5*%
+%TF.CreationDate,2026-05-29T20:01:28+02:00*%
+%TF.ProjectId,GastroTrack FOC Encoder,47617374-726f-4547-9261-636b20464f43,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.5) date 2026-05-29 20:01:28*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,3.400000X1.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X-9000000Y-5000000D03*
+X-9000000Y-3000000D03*
+X-9000000Y-1000000D03*
+X-9000000Y1000000D03*
+X-9000000Y3000000D03*
+X-9000000Y5000000D03*
+%TD*%
+M02*
