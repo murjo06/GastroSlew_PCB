@@ -50,7 +50,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffff75_ffffffeb",
+    "visible_layers": "ffffffff_ffffffff_ffffff75_ffffffef",
     "zone_display_mode": 0
   },
   "git": {
@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "GastroScope_FOC.kicad_prl",
+    "filename": "GastroSlew_FOC.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
